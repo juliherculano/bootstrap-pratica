@@ -1,4 +1,15 @@
 
+.background-nav {
+    background-color: #e96165;
+}
+
+.sub-artistas {
+    padding-top: 20px;
+}
+
+.sub-imprensa {
+    padding-bottom: 10px;
+}
 
 .box-cards {
     display: flex;
@@ -10,16 +21,22 @@
     text-align: center;
 }
 
+.logo {
+    width: 50px;
+}
+
+.carousel-inner {
+    height: 500px;
+}
+
 .cards {
 width: 350px;
-padding: 0 30px;
-
 }
 
 .box-imprensa {
     display: flex;
-    justify-content: center;
-    border: none;
+    justify-content: space-around;
+    padding: 0 20px;
 }
 
 .card-text-imprensa {
@@ -27,15 +44,8 @@ padding: 0 30px;
     text-align: justify;
 }
 
-
-form {
-    width: 400px;
-    padding: 10px;
-}
-
-.footer {
-    background-color: #e96165;
-    padding: 10px;
-    text-align: center;
-    margin-top: 5%;
+.botao-contato {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
 }
