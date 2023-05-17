@@ -1,0 +1,41 @@
+
+
+.box-cards {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.fw-normal, p {
+    text-align: center;
+}
+
+.cards {
+width: 350px;
+padding: 0 30px;
+
+}
+
+.box-imprensa {
+    display: flex;
+    justify-content: center;
+    border: none;
+}
+
+.card-text-imprensa {
+    font-size: 12px;
+    text-align: justify;
+}
+
+
+form {
+    width: 400px;
+    padding: 10px;
+}
+
+.footer {
+    background-color: #e96165;
+    padding: 10px;
+    text-align: center;
+    margin-top: 5%;
+}
